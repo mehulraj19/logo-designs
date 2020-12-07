@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.G{
+    color: #2F70E9;
+    font-size: 70px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 542px;
+
+}
+.o1{
+    color: #DF2F24;
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 650px;
+}
+.o2{
+    color: #EEA801;
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 705px;
+}
+.l{
+    font-size: 60px;
+    color: #0E9135;
+    position: absolute;
+    margin-top: 83px;
+    margin-left: 811.5px;
+}
+.g{
+    color: #2F70E9;
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 760px;
+}
+.e{
+    color: #DF2F24;
+    position: absolute;
+    margin-top: 155px;
+    margin-left: 842.5px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 10;
+    font-size: 15px;
+    letter-spacing: 3.5;
+    color: gray;
+}
+.container{
+    height: 42px;
+    width: 420px;
+    z-index: -1;
+    box-shadow: 0.0001px 0.0001px 1px 1px grey inset; 
+    border-radius: 40px;
+    position: absolute;
+    margin-top: 335px;
+    margin-left: 520px;
+}
+.search{
+    font-size: 24px;
+    color: gray;
+    position: absolute;
+    margin-top: 335px;
+    margin-left: 530px;
+
+}
+.search-text{
+    height: 37px;
+    width: 410px;
+    position: absolute;
+    margin-top: 329px;
+    margin-left: 565px;
+}
+.speak{
+    font-size: 24px;
+    color: gray;
+    position: absolute;
+    margin-top: 334px;
+    margin-left: 916px;
+}
